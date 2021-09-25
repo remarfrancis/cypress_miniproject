@@ -1,0 +1,13 @@
+{
+    "name": "Using fixtures to represent data",
+    "email": "hello@cypress.io",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "url": "https://www.saucedemo.com/",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "productName":["Sauce Labs Onesie", "Sauce Labs Backpack"],
+    "firstName": "Jolly",
+    "lastName": "Mickydees",
+    "zipPostalCode": "72141",
+    "thankYouHeader": "THANK YOU FOR YOUR ORDER"
+  }
